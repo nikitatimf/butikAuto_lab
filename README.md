@@ -1,18 +1,18 @@
-# butikAuto_laba
+# sale_phone
 ## Project name: auto shop
-## This project is a platform for selling cars. Users can connect with each other, view ads, and post them on the platform.
-## Target audience: car owners and those who want to buy one
-## Key features: Users can post ads, edit them, specify various parameters, sort ads by multiple factors, register and authorize
+## This project is an online store selling phones.
+## Target audience: people looking to buy a phone.
+## Key features: Users can post ads, edit them, specify various parameters, sort ads by multiple parameters, register, and log in.
 
 ## Project structure: 
-* Home 
+* Home
 * Settings
-* Ad Panel
 * Favorites
-* Filter and sorting
+* Filter and sort
 * Authentication
-*  Messages
-*  Personal account
+* Personal account
+* Details page
+* Search
 
 ## Technology stack
 ## Frontend:
